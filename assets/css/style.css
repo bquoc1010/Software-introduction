@@ -131,9 +131,7 @@
 }
 .section-1 .inner-wrap .inner-content{
   position: relative;
-  top: 140px;
-  left: 150px;
-  bottom: 600px;
+  padding: 140px 0;
 }
 .background-1 .inner-wrap .inner-content .intro{
   color: #fff;
