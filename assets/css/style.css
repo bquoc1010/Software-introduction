@@ -64,7 +64,9 @@
   display: flex;
   list-style-type: none;
 }
-
+.header .inner-social ul li a:hover{
+  background-color: #94A5B5;
+}
 .header .inner-social ul li a{
   display: inline-flex;
   background-color: #fff;
@@ -779,6 +781,9 @@ background-color: #fff;
 .section-6 .inner-button{
   display: flex;
   align-items: center;
+}
+.section-6 .button:hover{
+  background-color: #F1F0C9;
 }
 .section-6 .inner-button .inner-icon{
   position: absolute;
